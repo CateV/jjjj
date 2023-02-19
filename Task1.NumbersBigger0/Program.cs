@@ -14,7 +14,7 @@ int[] FillArray(int howLong)
     int[] arr = new int[howLong];
     for (int i = 0; i < howLong; i++)
     {
-        System.Console.WriteLine("Введите целое число");
+        System.Console.WriteLine($"Введите {i+1}-е целое число");
         arr[i] = Convert.ToInt32(Console.ReadLine());
     }
     return arr;
