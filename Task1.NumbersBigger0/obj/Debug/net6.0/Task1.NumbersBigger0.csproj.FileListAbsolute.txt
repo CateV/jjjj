@@ -1,0 +1,15 @@
+D:\GeekBrains\4. Знакомство с языками программирования\6.С#\Homework6CSharp\Task1.NumbersBigger0\bin\Debug\net6.0\Task1.NumbersBigger0.exe
+D:\GeekBrains\4. Знакомство с языками программирования\6.С#\Homework6CSharp\Task1.NumbersBigger0\bin\Debug\net6.0\Task1.NumbersBigger0.deps.json
+D:\GeekBrains\4. Знакомство с языками программирования\6.С#\Homework6CSharp\Task1.NumbersBigger0\bin\Debug\net6.0\Task1.NumbersBigger0.runtimeconfig.json
+D:\GeekBrains\4. Знакомство с языками программирования\6.С#\Homework6CSharp\Task1.NumbersBigger0\bin\Debug\net6.0\Task1.NumbersBigger0.dll
+D:\GeekBrains\4. Знакомство с языками программирования\6.С#\Homework6CSharp\Task1.NumbersBigger0\bin\Debug\net6.0\Task1.NumbersBigger0.pdb
+D:\GeekBrains\4. Знакомство с языками программирования\6.С#\Homework6CSharp\Task1.NumbersBigger0\obj\Debug\net6.0\Task1.NumbersBigger0.csproj.AssemblyReference.cache
+D:\GeekBrains\4. Знакомство с языками программирования\6.С#\Homework6CSharp\Task1.NumbersBigger0\obj\Debug\net6.0\Task1.NumbersBigger0.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\4. Знакомство с языками программирования\6.С#\Homework6CSharp\Task1.NumbersBigger0\obj\Debug\net6.0\Task1.NumbersBigger0.AssemblyInfoInputs.cache
+D:\GeekBrains\4. Знакомство с языками программирования\6.С#\Homework6CSharp\Task1.NumbersBigger0\obj\Debug\net6.0\Task1.NumbersBigger0.AssemblyInfo.cs
+D:\GeekBrains\4. Знакомство с языками программирования\6.С#\Homework6CSharp\Task1.NumbersBigger0\obj\Debug\net6.0\Task1.NumbersBigger0.csproj.CoreCompileInputs.cache
+D:\GeekBrains\4. Знакомство с языками программирования\6.С#\Homework6CSharp\Task1.NumbersBigger0\obj\Debug\net6.0\Task1.NumbersBigger0.dll
+D:\GeekBrains\4. Знакомство с языками программирования\6.С#\Homework6CSharp\Task1.NumbersBigger0\obj\Debug\net6.0\refint\Task1.NumbersBigger0.dll
+D:\GeekBrains\4. Знакомство с языками программирования\6.С#\Homework6CSharp\Task1.NumbersBigger0\obj\Debug\net6.0\Task1.NumbersBigger0.pdb
+D:\GeekBrains\4. Знакомство с языками программирования\6.С#\Homework6CSharp\Task1.NumbersBigger0\obj\Debug\net6.0\Task1.NumbersBigger0.genruntimeconfig.cache
+D:\GeekBrains\4. Знакомство с языками программирования\6.С#\Homework6CSharp\Task1.NumbersBigger0\obj\Debug\net6.0\ref\Task1.NumbersBigger0.dll
